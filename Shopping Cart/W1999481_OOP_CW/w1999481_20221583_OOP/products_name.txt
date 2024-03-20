@@ -1,0 +1,1 @@
+Electronics{brand='HGJ', warrantyPeriods='3', productName='HJG', noOfItemAvailable=2, price=365.0, productId='J'}

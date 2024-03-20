@@ -1,0 +1,1 @@
+Electronics{brand='hbjg', warrantyPeriods='2', productName='ygft', noOfItemAvailable=3, price=123.0, productId='bh'}
